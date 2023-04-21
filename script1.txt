@@ -2,5 +2,6 @@ DELAY 1000
 GUI r
 DELAY 100
 STRING cmd
+ENTER
 DELAY 1000
 STRING start microsoft-edge:https://www.youtube.com/watch?v=xvFZjo5PgG0
